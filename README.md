@@ -18,7 +18,7 @@
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
 Passionate developer, tech enthusiast, and lifelong learner.<br>
-I love building impactful software, exploring new technologies, and collaborating with the global tech community.
+I love building impactful software, exploring new technologies, and collaborating with the global tech communities.
 </p>
 
 <!-- Tech Stack -->
